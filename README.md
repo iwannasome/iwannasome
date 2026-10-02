@@ -15,13 +15,13 @@
 
 <a href="https://github.com/iwannasome/cyberlearn"><img src="./assets/cyberlearn.svg?v=black-white-1" width="100%" alt="CyberLearn — уроки и задания по кибербезопасности." /></a>
 
-### стек
+### С чем делал делюгу
 
 <img src="./assets/languages.svg?v=black-white-1" width="100%" alt="TypeScript, JavaScript, Python, Java, HTML5, CSS3" />
 <img src="./assets/frameworks.svg?v=black-white-1" width="100%" alt="React, Electron, Vite, Tailwind CSS, Node.js, PostgreSQL" />
 <img src="./assets/tools.svg?v=black-white-1" width="100%" alt="Linux, Bash, Docker, Git, DBeaver, Android" />
 
-<sub>использовал в работе.</sub>
+<sub>действительно использовал в работе и проектах.</sub>
 
 <details>
 <summary>еще</summary>
