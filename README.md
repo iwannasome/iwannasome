@@ -7,9 +7,9 @@
 пишу TGWR и CyberLearn, копаюсь в linux, прохожу лабы. ниже — с чем уже успел повозиться.
 
 <p align="center">
-  <a href="https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118"><img src="https://media1.tenor.com/m/Fkyy1mTLcHYAAAAC/mr-robot-elliot-alderson.gif" height="150" alt="Эллиот Алдерсон — Mr. Robot" /></a>
-  <a href="https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324"><img src="https://media.tenor.com/ZiHm-uLLEcYAAAAM/conor-mcgregor-yummy.gif" height="150" alt="Макгрегор ест мороженое" /></a>
-  <a href="https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291"><img src="https://media1.tenor.com/m/AR8brbJFMQQAAAAC/frank-underwood-house-of-cards.gif" height="150" alt="Фрэнк Андервуд — House of Cards" /></a>
+  <a href="https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118"><img src="https://media1.tenor.com/m/Fkyy1mTLcHYAAAAC/mr-robot-elliot-alderson.gif" height="120" alt="Эллиот Алдерсон — Mr. Robot" /></a>
+  <a href="https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324"><img src="https://media.tenor.com/ZiHm-uLLEcYAAAAM/conor-mcgregor-yummy.gif" height="120" alt="Макгрегор ест мороженое" /></a>
+  <a href="https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291"><img src="https://media1.tenor.com/m/AR8brbJFMQQAAAAC/frank-underwood-house-of-cards.gif" height="120" alt="Фрэнк Андервуд — House of Cards" /></a>
 </p>
 
 ### проекты
