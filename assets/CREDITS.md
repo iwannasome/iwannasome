@@ -1,6 +1,6 @@
 # Asset credits
 
-Custom profile artwork: iwannasome profile design.
+Custom profile artwork: iwannasome profile design. Animated SVG artwork uses no scripts. Terminal output is a decorative illustration, not live activity. Technology logo strips retain their original brand colors. Cards use black and white.
 
 Technology logos: [Devicon](https://github.com/devicons/devicon), MIT license.
 Brand names and logos belong to their respective owners. Their use identifies technologies, not endorsement.
@@ -41,6 +41,10 @@ Official project / brand assets. Simple Icons assets are CC0; trademarks belong 
 
 Animated images are embedded from Tenor and link to their source pages.
 
-- elliot: https://tenor.com/view/mr-robot-elliot-alderson-smoke-smoking-gif-5597884
+- elliot: https://tenor.com/view/mr-robot-elliot-alderson-rami-malek-gif-18226892
 - minions: https://tenor.com/view/minions-cute-typing-gif-7819016
-- frank: https://tenor.com/view/underwood-gif-18363111
+- frank: https://tenor.com/view/frank-underwood-house-of-cards-kevin-spacey-gif-3894068
+
+- Spotify logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg
+
+- Telegram logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg
