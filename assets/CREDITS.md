@@ -48,3 +48,5 @@ Animated images are embedded from Tenor and link to their source pages.
 - Spotify logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg
 
 - Telegram logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg
+
+TGWR flying paper plane: custom folded 3D mesh, perspective-projected into animated SVG.

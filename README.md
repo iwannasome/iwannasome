@@ -14,7 +14,7 @@ TGWR, CyberLearn, linux и безопасность.
 
 ### проекты
 
-<a href="https://github.com/iwannasome/TGWRDSKTP"><img src="./assets/tgwr.svg?v=black-white-1" width="100%" alt="TGWR — статистика переписок Telegram. Локально, с экспортом в PNG и PDF." /></a>
+<a href="https://github.com/iwannasome/TGWRDSKTP"><img src="./assets/tgwr.svg?v=paper-flight-2" width="100%" alt="TGWR — статистика переписок Telegram. Локально, с экспортом в PNG и PDF." /></a>
 
 <a href="https://github.com/iwannasome/cyberlearn"><img src="./assets/cyberlearn.svg?v=black-white-1" width="100%" alt="CyberLearn — уроки и задания по кибербезопасности." /></a>
 
