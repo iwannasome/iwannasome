@@ -2,9 +2,6 @@
 
 ### привет, я даня
 
-**сейчас в фокусе — перекат в cybersecurity.**
-
-TGWR, CyberLearn, linux и безопасность.
 
 <p align="center">
   <a href="https://tenor.com/view/mr-robot-elliot-alderson-rami-malek-gif-18226892"><img src="https://media1.tenor.com/m/Nn5KFQZjMBQAAAAC/mr-robot-elliot-alderson.gif" width="40%" alt="Эллиот Алдерсон курит — Mr. Robot" /></a>
