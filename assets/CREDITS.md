@@ -24,10 +24,23 @@ Brand names and logos belong to their respective owners. Their use identifies te
 - DBeaver: https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg
 - Android: https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg
 
+## Security tool logos
+
+Official project / brand assets. Simple Icons assets are CC0; trademarks belong to their respective owners.
+
+- Wireshark: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg
+- Metasploit: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg
+- MikroTik: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mikrotik.svg
+- OPNsense: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opnsense.svg
+- Debian: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/debian.svg
+- VirtualBox: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/virtualbox.svg
+- Wazuh: https://wazuh.com/uploads/2026/06/wazuh-logo-square.png
+- Suricata: https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png
+
 ## GIFs
 
 Animated images are embedded from Tenor and link to their source pages.
 
-- elliot: https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118
-- conor: https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324
-- frank: https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291
+- elliot: https://tenor.com/view/mr-robot-elliot-alderson-smoke-smoking-gif-5597884
+- minions: https://tenor.com/view/minions-cute-typing-gif-7819016
+- frank: https://tenor.com/view/underwood-gif-18363111

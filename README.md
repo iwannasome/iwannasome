@@ -4,12 +4,12 @@
 
 **сейчас в фокусе — перекат в cybersecurity.**
 
-пишу TGWR и CyberLearn, копаюсь в linux, прохожу лабы. ниже — с чем уже успел повозиться.
+пишу TGWR и CyberLearn, копаюсь в linux и разбираюсь в безопасности. ниже — с чем уже успел повозиться.
 
 <p align="center">
-  <a href="https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118"><img src="https://media1.tenor.com/m/Fkyy1mTLcHYAAAAC/mr-robot-elliot-alderson.gif" height="120" alt="Эллиот Алдерсон — Mr. Robot" /></a>
-  <a href="https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324"><img src="https://media.tenor.com/ZiHm-uLLEcYAAAAM/conor-mcgregor-yummy.gif" height="120" alt="Макгрегор ест мороженое" /></a>
-  <a href="https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291"><img src="https://media1.tenor.com/m/AR8brbJFMQQAAAAC/frank-underwood-house-of-cards.gif" height="120" alt="Фрэнк Андервуд — House of Cards" /></a>
+  <a href="https://tenor.com/view/mr-robot-elliot-alderson-smoke-smoking-gif-5597884"><img src="https://media1.tenor.com/m/SaT56WIdupoAAAAC/mr-robot-elliot-alderson.gif" height="110" alt="Эллиот Алдерсон курит — Mr. Robot" /></a>
+  <a href="https://tenor.com/view/minions-cute-typing-gif-7819016"><img src="https://media1.tenor.com/m/gfX0mn8jzSoAAAAC/minions-cute.gif" height="110" alt="Миньон за клавиатурой" /></a>
+  <a href="https://tenor.com/view/underwood-gif-18363111"><img src="https://media1.tenor.com/m/AuYLnbNhLnoAAAAd/underwood.gif" height="110" alt="Фрэнк Андервуд — House of Cards" /></a>
 </p>
 
 ### проекты
@@ -28,30 +28,36 @@
 <img src="./assets/frameworks.svg" width="100%" alt="React, Electron, Vite, Tailwind CSS, Node.js, PostgreSQL" />
 <img src="./assets/tools.svg" width="100%" alt="Linux, Bash, Docker, Git, DBeaver, Android" />
 
-<sub>из проектов и учебной практики.</sub>
+<sub>использовал в проектах и задачах.</sub>
 
 <details>
-<summary>еще из учебы</summary>
+<summary>еще</summary>
 
 - PostgreSQL и DBeaver: SQL-запросы и проектирование баз.
 - 1С:Предприятие, мобильная платформа, Android SDK — приложение с запуском на телефоне.
-- VirtualBox, Debian, MikroTik и Suricata — учебные стенды и сети.
+- VirtualBox, Debian, MikroTik и Suricata — стенды и сети.
 
 </details>
 
-### cybersecurity / pt edtechlab
+### опыт
 
-<img src="./assets/pt-edtechlab.svg" width="100%" alt="PT EdTechLab, Введение в кибербезопасность. Прогресс 85%; UNIX 13/13, сети 23/23, Windows 10/13. Данные на 02.10.2026." />
+**уязвимости**  
+Log4Shell · React2Shell · Telnetd Authentication Bypass
 
-прохожу **«Введение в кибербезопасность»** от Positive Technologies. что уже было:
+**сети и доступ**  
+ARP spoofing · DHCP starvation / rogue DHCP · ICMP, UDP, TCP · Telnet brute force · password spraying
 
-- **unix:** bash, права, процессы, службы, логи, Wazuh, контейнеризация.
-- **сети:** Wireshark, MikroTik, адресация и маршрутизация, DNS, VLAN, NAT, OPNsense.
-- **windows:** пользователи и политики, журналирование, ETW, Sysmon, основы AD, Kerberos и NTLM.
+**инструменты**  
+Metasploit · Adaptix · Sliver
 
-<img src="./assets/security-tools.svg" width="100%" alt="Учебный стек: Wazuh, Wireshark, MikroTik, OPNsense, Sysmon, Active Directory" />
+<img src="./assets/security-tools.svg" width="100%" alt="Wazuh, Wireshark, Suricata, Metasploit, MikroTik, OPNsense, Debian, VirtualBox" />
 
-<sub>прогресс на платформе на 02.10.2026. курс еще идет, практика — в лабораторной среде.</sub>
+| linux & мониторинг | сети & windows |
+| :--- | :--- |
+| Bash, права, процессы, службы | адресация, маршрутизация, DNS |
+| системные логи, Wazuh, Suricata | VLAN, NAT, VPN, OPNsense |
+| контейнеризация, работа с дисками | Active Directory, Kerberos, NTLM |
+| анализ трафика в Wireshark | политики, реестр, ETW, Sysmon |
 
 ### на репите
 
