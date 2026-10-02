@@ -23,3 +23,11 @@ Brand names and logos belong to their respective owners. Their use identifies te
 - Git: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
 - DBeaver: https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg
 - Android: https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg
+
+## GIFs
+
+Animated images are embedded from Tenor and link to their source pages.
+
+- elliot: https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118
+- conor: https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324
+- frank: https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291

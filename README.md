@@ -1,52 +1,58 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Daniil / iwannasome — building things, learning deeply. Development · Systems · Security." />
-</p>
+<img src="./assets/hero.svg" width="100%" alt="iwannasome — swaggin around" />
+
+### привет, я даня
+
+**сейчас в фокусе — перекат в cybersecurity.**
+
+пишу TGWR и CyberLearn, копаюсь в linux, прохожу лабы. ниже — с чем уже успел повозиться.
 
 <p align="center">
-  <a href="#projects">Проекты</a> &nbsp; / &nbsp;
-  <a href="#stack">Технологии</a> &nbsp; / &nbsp;
-  <a href="#learning">Что изучаю</a>
+  <a href="https://tenor.com/view/mr-robot-elliot-alderson-gif-1606855800948224118"><img src="https://media1.tenor.com/m/Fkyy1mTLcHYAAAAC/mr-robot-elliot-alderson.gif" height="150" alt="Эллиот Алдерсон — Mr. Robot" /></a>
+  <a href="https://tenor.com/view/conor-mcgregor-yummy-ice-cream-ufc-ufc-funny-gif-25219324"><img src="https://media.tenor.com/ZiHm-uLLEcYAAAAM/conor-mcgregor-yummy.gif" height="150" alt="Макгрегор ест мороженое" /></a>
+  <a href="https://tenor.com/view/frank-underwood-house-of-cards-knock-gif-8834291"><img src="https://media1.tenor.com/m/AR8brbJFMQQAAAAC/frank-underwood-house-of-cards.gif" height="150" alt="Фрэнк Андервуд — House of Cards" /></a>
 </p>
 
-### Привет, я Даниил 👋
-
-Делаю приложения, разбираюсь в Linux и изучаю кибербезопасность. Мне интересно пройти весь путь: от идеи и интерфейса до данных, окружения и работающего результата.
-
-**Сейчас в фокусе:** собственные проекты, SQL и базы данных, основы SOC / Blue Team.
-
-<a id="stack"></a>
-## 01 / Технологии в моих проектах
-
-<img src="./assets/languages.svg" width="100%" alt="Языки и веб: TypeScript, JavaScript, Python, Java, HTML5, CSS3" />
-<img src="./assets/frameworks.svg" width="100%" alt="Приложения и данные: React, Electron, Vite, Tailwind CSS, Node.js, PostgreSQL" />
-<img src="./assets/tools.svg" width="100%" alt="Инструменты и окружение: Linux, Bash, Docker, Git, DBeaver, Android" />
-
-<sub>Стек из личных проектов и учебной практики. Продолжаю изучать и применять его в работе над задачами.</sub>
-
-<a id="projects"></a>
-## 02 / Из идеи в приложение
+### проекты
 
 <a href="https://github.com/iwannasome/TGWRDSKTP"><img src="./assets/tgwr.svg" width="100%" alt="TGWR — локальный Telegram Wrapped. Electron, React, TypeScript, Python. Открыть репозиторий." /></a>
 
-Экспорт Telegram превращается в персональную историю с аналитикой и карточками PNG/PDF. Обработка переписок — на компьютере пользователя.
+твоя переписка → твой wrapped. всё считается локально, результат можно забрать в PNG/PDF.
 
-<a href="https://github.com/iwannasome/cyberlearn"><img src="./assets/cyberlearn.svg" width="100%" alt="CyberLearn — личный учебный проект по кибербезопасности. Python, JavaScript, HTML, CSS. Открыть репозиторий." /></a>
+<a href="https://github.com/iwannasome/cyberlearn"><img src="./assets/cyberlearn.svg" width="100%" alt="CyberLearn — учебный проект по кибербезопасности. Python, JavaScript, HTML, CSS. Открыть репозиторий." /></a>
 
-Учебный проект с локальными уроками, практическими миссиями и дашбордом прохождения.
+моя учебная площадка: уроки, локальные задания и дашборд прохождения.
 
-<a id="learning"></a>
-## 03 / За пределами кода
+### стек
 
-| Направление | С чем работаю и знакомлюсь |
-| :--- | :--- |
-| 🐧 **Linux и сети** | Терминал, процессы, права доступа, виртуальные машины и сетевые настройки |
-| 🛡️ **Security labs** | VirtualBox, Debian, MikroTik, Suricata — в учебных лабораториях |
-| 🗃️ **Базы данных** | PostgreSQL, DBeaver, SQL-запросы и проектирование баз |
-| 📱 **1С и Android** | 1С:Предприятие, мобильная платформа, Android SDK и запуск на устройстве |
+<img src="./assets/languages.svg" width="100%" alt="TypeScript, JavaScript, Python, Java, HTML5, CSS3" />
+<img src="./assets/frameworks.svg" width="100%" alt="React, Electron, Vite, Tailwind CSS, Node.js, PostgreSQL" />
+<img src="./assets/tools.svg" width="100%" alt="Linux, Bash, Docker, Git, DBeaver, Android" />
 
-## 04 / На фоне играет
+<sub>из проектов и учебной практики.</sub>
 
-<a href="https://open.spotify.com/playlist/7lNBKfrtIyYOEwsTeOb9zu"><img src="./assets/spotify.svg" width="100%" alt="IW$ — мой плейлист в Spotify. Открыть и слушать." /></a>
+<details>
+<summary>еще из учебы</summary>
 
-<br />
-<img src="./assets/footer.svg" width="100%" alt="Build. Understand. Improve. Repeat. — iwannasome / IWS" />
+- PostgreSQL и DBeaver: SQL-запросы и проектирование баз.
+- 1С:Предприятие, мобильная платформа, Android SDK — приложение с запуском на телефоне.
+- VirtualBox, Debian, MikroTik и Suricata — учебные стенды и сети.
+
+</details>
+
+### cybersecurity / pt edtechlab
+
+<img src="./assets/pt-edtechlab.svg" width="100%" alt="PT EdTechLab, Введение в кибербезопасность. Прогресс 85%; UNIX 13/13, сети 23/23, Windows 10/13. Данные на 02.10.2026." />
+
+прохожу **«Введение в кибербезопасность»** от Positive Technologies. что уже было:
+
+- **unix:** bash, права, процессы, службы, логи, Wazuh, контейнеризация.
+- **сети:** Wireshark, MikroTik, адресация и маршрутизация, DNS, VLAN, NAT, OPNsense.
+- **windows:** пользователи и политики, журналирование, ETW, Sysmon, основы AD, Kerberos и NTLM.
+
+<img src="./assets/security-tools.svg" width="100%" alt="Учебный стек: Wazuh, Wireshark, MikroTik, OPNsense, Sysmon, Active Directory" />
+
+<sub>прогресс на платформе на 02.10.2026. курс еще идет, практика — в лабораторной среде.</sub>
+
+### на репите
+
+<a href="https://open.spotify.com/playlist/7lNBKfrtIyYOEwsTeOb9zu"><img src="./assets/spotify.svg" width="100%" alt="IW$ — мой плейлист в Spotify" /></a>
