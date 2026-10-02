@@ -41,6 +41,6 @@ TGWR, CyberLearn, linux и безопасность.
 
 <img src="./assets/security-tools.svg?v=black-white-1" width="100%" alt="Wazuh, Wireshark, Suricata, Metasploit, MikroTik, OPNsense, Debian, VirtualBox" />
 
-### на репите
+
 
 <a href="https://open.spotify.com/playlist/7lNBKfrtIyYOEwsTeOb9zu"><img src="./assets/spotify.svg?v=black-white-1" width="100%" alt="IW$ — мой плейлист в Spotify" /></a>
